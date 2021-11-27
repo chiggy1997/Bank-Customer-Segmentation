@@ -41,8 +41,8 @@ Bank Customer Segmentation with kmeans, PCA and Encoder decoder.
  	* Standardizing the data to perform Kmeans				
 	* Finding optimal number of clusters with Elbow method				
 	* Applying Kmeans with the optimal k value.				
-	* Applied PCA with 2 principal components to visulaize the results.Seabornscatterplot was used to perform this.				
-	* Apllied autoencoders for dimensionality reduction from 18 features to 10 features.				
+	* Applied PCA with 2 principal components to visulaize the results.Seaborn scatterplot was used to perform this.				
+	* Applied autoencoders for dimensionality reduction from 18 features to 10 features.				
 					
 					
 					
