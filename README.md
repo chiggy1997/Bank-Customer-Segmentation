@@ -8,12 +8,12 @@ Bank Customer Segmentation with kmeans, PCA and Encoder decoder.
 	* For that they need to perform accurate customer segmentation.				
 					
 
-#### a. Challenges Faced	
+#### b. Challenges Faced	
 	* Collection of data from twitter through twitter API				
 	* Structuring and making sense of unstructured and noisy text data.				
 	* Data cleaning and preprocessing.				
 					
-#### a. Interesting findings					
+#### c. Interesting findings					
 					
 					
 					
